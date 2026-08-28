@@ -32,9 +32,6 @@ Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big 
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://stats.deepsource.com/gh/victor06-git" alt="Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor06-git&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
 </p>
 ---
