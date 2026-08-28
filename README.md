@@ -1,6 +1,6 @@
 # Hola, soy Victor 👋
 
-Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big Data y Cloud[cite: 4, 6]. Creando proyectos, participando en hackathons internacionales y documentando el proceso[cite: 1, 4].
+Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big Data y Cloud. Creando proyectos, participando en hackathons internacionales y documentando el proceso.
 
 ---
 
