@@ -40,6 +40,6 @@ Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big 
 ---
 
 ### 📬 Conecta conmigo
-- 💼 **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/victor-asensio-berm%C3%BAdez-434a48342/)
-- 📸 **Instagram:** [@vicasbe](https://www.instagram.com)[cite: 6]
+- 💼 **LinkedIn:** [Victor Asensio LinkedIn](https://www.linkedin.com/in/victor-asensio-berm%C3%BAdez-434a48342/)
+- 📸 **Instagram:** [@vic_asbe](https://www.instagram.com/vic_asbe)
 - ✉️ **Email:** asensiovector@gmail.com
