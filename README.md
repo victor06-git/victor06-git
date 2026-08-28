@@ -31,10 +31,10 @@ Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big 
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victor06-git&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor06-git&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victor06-git&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor06-git&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="49%" />
+</p>
 
 ---
 
