@@ -1,4 +1,8 @@
-# Hola, soy Victor 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=Victor%20Asensio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Builder%20%7C%20Content%20Creator&descAlignY=62&descAlign=50" width="100%"/>
+</p>
+
+# Hola, soy Victor Asensio
 
 Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big Data y Cloud. Creando proyectos, participando en hackathons internacionales y documentando el proceso.
 
@@ -37,6 +41,15 @@ Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big 
 ---
 
 ### 📬 Conecta conmigo
-- 💼 **LinkedIn:** [Victor Asensio LinkedIn](https://www.linkedin.com/in/victor-asensio-berm%C3%BAdez-434a48342/)
-- 📸 **Instagram:** [@vic_asbe](https://www.instagram.com/vic_asbe)
-- ✉️ **Email:** asensiovector@gmail.com
+
+<p align="left">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/vicasbe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:asensiovector@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
