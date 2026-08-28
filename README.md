@@ -5,10 +5,10 @@ Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big 
 ---
 
 ### 🚀 Sobre mí
-- 💼 **Data Engineer Intern** en **Allianz**[cite: 4, 6].
-- 🎓 Estudiante en **Data & Cloud Academy** (especialización en Big Data, Cloud, Kafka y arquitecturas de datos)[cite: 4, 6].
-- 🏆 Ganador de Hackathons en Barcelona y participante en **AdventureX (Hangzhou, China)** representando a España[cite: 1, 4].
-- 🛠️ Creando soluciones B2B y proyectos basados en IA / Cloud[cite: 4, 6].
+- 💼 **Data Engineer Intern** en **Allianz**.
+- 🎓 Estudiante en **Data & Cloud Academy** (especialización en Big Data, Cloud, Kafka y arquitecturas de datos).
+- 🏆 Ganador de Bending Spoons Challenge en hackUPC26 en Barcelona y participante en **AdventureX (Hangzhou, China)** representando a España.
+- 🛠️ Creando soluciones B2B y proyectos basados en IA / Cloud.
 
 ---
 
