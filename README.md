@@ -2,18 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=180&section=header&text=Victor%20Asensio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Builder%20%7C%20Content%20Creator&descAlignY=62&descAlign=50" width="100%"/>
 </p>
 
-# Hola, soy Victor Asensio
+# Hi, I'm Victor Asensio
 
-Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big Data y Cloud. Creando proyectos, participando en hackathons internacionales y documentando el proceso.
+Data Engineer & FullStack Developer focused on distributed architecture, Big Data and Cloud. Creating projects, participating in international hackathons.
 
  - [victor-asensio-webpage](https://personal-webpage-gold.vercel.app)
 ---
 
 ### 🚀 Sobre mí
 - 💼 **Data Engineer Intern** en **Allianz**.
-- 🎓 Estudiante en **Data & Cloud Academy** (especialización en Big Data, Cloud, Kafka y arquitecturas de datos).
-- 🏆 Ganador de Bending Spoons Challenge en hackUPC26 en Barcelona y participante en **AdventureX (Hangzhou, China)** representando a España.
-- 🛠️ Creando soluciones B2B y proyectos basados en IA / Cloud.
+- 🎓 Studient in **Data & Cloud Academy** (specializing on Big Data, Cloud, Kafka and data architectures).
+- 🏆 Winner of Bending Spoons Challenge in hackUPC26 in Barcelona and participant in **AdventureX (Hangzhou, China)** representing Spain.
+- 🛠️ Creating solutions B2B and projects based on IA / Cloud.
 
 ---
 
@@ -34,14 +34,14 @@ Data Engineer & FullStack Developer enfocado en arquitecturas distribuidas, Big 
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
+### 📊 My GitHub stadistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=victor06-git&theme=tokyonight&hide_border=true" alt="Streak Stats" width="80%" />
 </p>
 ---
 
-### 📬 Conecta conmigo
+### 📬 Wanna connect?
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victor-asensio-berm%C3%BAdez-434a48342/" target="_blank">
