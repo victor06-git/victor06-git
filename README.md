@@ -13,7 +13,7 @@ Data Engineer & FullStack Developer focused on distributed architecture, Big Dat
 - 💼 **Data Engineer Intern** en **Allianz**.
 - 🎓 Studient in **Data & Cloud Academy** (specializing on Big Data, Cloud, Kafka and data architectures).
 - 🏆 Winner of Bending Spoons Challenge in hackUPC26 in Barcelona and participant in **AdventureX (Hangzhou, China)** representing Spain.
-- 🛠️ Creating solutions B2B and projects based on IA / Cloud.
+- 🛠️ Creating solutions B2B and projects based on AI / Cloud.
 
 ---
 
